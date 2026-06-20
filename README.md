@@ -1,6 +1,22 @@
 # Intelligent Form Agent
 
 An intelligent document understanding and parsing agent that processes, extracts, summarizes, and answers questions about structured and unstructured forms (PDFs and images) using Google's Gemini API. 
+## Screenshots
+
+### Home Screen
+![Home Screen](assets/homescreen.png)
+
+### Structured JSON Extraction
+![JSON Extraction](assets/json-extraction.png)
+
+### Executive Summary
+![Executive Summary](assets/executive_summary.png)
+
+### Q&A Interface
+![Q&A](assets/qa_chat.png)
+
+### Cross Form Comparative Analysis
+![Executive Summary](assets/Cross_form_comparative_analysis.png)
 
 ## Features
 
