@@ -7,7 +7,7 @@ An intelligent document understanding and parsing agent that processes, extracts
 ![Home Screen](assets/homescreen.png)
 
 ### Structured JSON Extraction
-![JSON Extraction](assets/json-extraction.png)
+![JSON Extraction](assets/json_extraction.png)
 
 ### Executive Summary
 ![Executive Summary](assets/executive_summary.png)
